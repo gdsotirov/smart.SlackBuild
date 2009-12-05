@@ -1,0 +1,11 @@
+smart: SMART (A package manager)
+smart:
+smart: Smart Package Manager is a next generation package handling tool,
+smart: which works with every major distribution's packages. It is used
+smart: as backend by applications like kde4's "kpackage" utility.
+smart:
+smart:
+smart:
+smart:
+smart:
+smart: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
